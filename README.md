@@ -1,1 +1,1 @@
-# Determination-and-analysis-of-acute-septicemia-in-spotted-sea-bass-Lateolabrax-maculatus-caused-by
+# Spotted sea bass (Lateolabrax maculatus) caused by Aeromonas veronii
