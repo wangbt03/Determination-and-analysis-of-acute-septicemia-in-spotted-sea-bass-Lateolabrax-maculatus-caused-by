@@ -1,5 +1,4 @@
-#Date 2021.01.10
-#Author wbt
+#Author Baotun Wang
 data = read.csv(file = "C:/Users/Tunnnnn/Desktop/graduate student/experiment/transcriptome/data/gene expression-p0.005,lg2fc1.csv")
 install.packages("ggplot2")
 library(ggplot2) 
